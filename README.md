@@ -2,6 +2,8 @@
 
 This is a self reflection assessment documenting how I built this website for a future class member.
 
+GitHub Pages is LIVE: https://mrashleyball.github.io/Roppers-Computing-Fundamentals-Build-a-Website-with-HTML-CSS-and-Javascript/
+
 ## To add
 - Choosing local enviroment including IDE and file structure
     - VS Extensions
